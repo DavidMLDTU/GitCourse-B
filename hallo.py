@@ -1,1 +1,1 @@
-print("Die Sonnen Straaaaaaahhhhhll...")
+print("Die Sonnen Straaaaaaahhhhhllt...")
